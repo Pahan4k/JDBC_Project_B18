@@ -5,5 +5,6 @@ public class fesrdgtfb {
         System.out.println("New one");
         //line 1
         //line2
+        //line3
     }
 }
